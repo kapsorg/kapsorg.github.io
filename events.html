@@ -1,21 +1,80 @@
 ---
+layout: default
+title: Events
 ---
+<h3>KAPS</h3>
+<h1>Make friends. Advance your career. Belong to community.</h1>
 
-<!DOCTYPE html>
-<html>
+<h2>Upcoming Events</h2>
 
-<head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" type="image/png" href="favicon-32x32.png"/>
-    <title>KAPS - Korean American Professional Society in the San Francisco Bay Area</title>
-</head>
+<h3>Main events</h3>
+<ol>
+    {% for event in site.data.mainevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
 
-<body>
-    <h3>KAPS</h3>
-    <h1>👋 hello.</h1>
-    <h1>Make friends. Advance your career. Belong to community.</h1>
-    {% include events.html %}
-</body>
+<h3>Small group events</h3>
+<ol>
+    {% for event in site.data.smallgroupevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
 
-</html>
+<h3>Sports events</h3>
+<ol>
+    {% for event in site.data.sportsevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
+
+<h3>Mental health events</h3>
+<ol>
+    {% for event in site.data.mentalhealthevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
+
+<h3>Professional development events</h3>
+<ol>
+    {% for event in site.data.professionalevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
+
+<h3>Volunteer events</h3>
+<ol>
+    {% for event in site.data.volunteerevents %}
+    <li>
+        <a href="{{ event.link }}">{{ event.title }}</a><br>
+        {{ event.date }} <br>
+        {{ event.location }} <br>
+        Expected attendance: {{ event.attendance }} <br>
+    </li>
+    {% endfor %}
+</ol>
