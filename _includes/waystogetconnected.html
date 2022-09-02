@@ -1,0 +1,11 @@
+<p>Here are the best ways to get connected:</p>
+<ol>
+    {% for item in site.data.waystogetconnected %}
+    <li>
+        {{ item.prompt }} <br>
+        <a href="{{ item.link }}">
+            {{ item.link }}
+        </a>
+    </li>
+    {% endfor %}
+</ol>
