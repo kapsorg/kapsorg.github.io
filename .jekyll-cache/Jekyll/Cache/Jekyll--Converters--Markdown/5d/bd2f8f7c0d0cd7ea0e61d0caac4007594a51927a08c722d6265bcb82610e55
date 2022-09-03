@@ -1,21 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS - Korean American Professional Society in the San Francisco Bay Area</title>
-</head>
-
-<body>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/events">Events</a>
-    <a href="/about">About</a>
-    <a href="/survey">2022 Member Survey</a>
-  </nav>
-  <h3 id="kaps">KAPS</h3>
+I"�<h3 id="kaps">KAPS</h3>
 <h1 id="-hello">👋 hello.</h1>
 <h1 id="make-friends-advance-your-career-belong-to-community">Make friends. Advance your career. Belong to community.</h1>
 
@@ -48,10 +31,4 @@ Most needed are: photographer, social media managers, and a designer to revamp t
     })();
 </script>
 
-
-  <footer>
-    <p>KAPS loves you 😍 2022</p>
-  </footer>
-</body>
-
-</html>
+:ET
