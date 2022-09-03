@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: basic
 title: About
 ---
 
@@ -7,7 +7,7 @@ title: About
 
 KAPS was started in 1992. 
 
-### KAPS Leadership
+### Leadership
 
 #### Lisa Oh - President
 Lisa moved to San Francisco in December 2017 from Seattle. She is currently a Senior Program Manager at Samsung, where she manages multiple flagship SMART wearable products.
@@ -45,51 +45,6 @@ Fred is a lawyer based in San Francisco. He is passionate about building Korean 
 Dennis is a second-generation Korean American originally hailing from NY/NJ and now a San Francisco resident. He just finished his tour of duty as a television producer for the Discovery Channel show MythBusters and is now working as the Senior Mechanical Engineer for Kitty Hawk, a Silicon Valley technology company dedicated to moving people more quickly and efficiently through personal flight, putting his degree in mechanical engineering (from Rutgers University) to work again.
 
 Dennis’s previous jobs included developing volumetric displays, working in the aerospace industry, and a career in special effects. Looking for a connection to the Korean Community, Dennis became a member of the Korean American Professional Society (KAPS) and discovered a great group of professionals as well as a great group of friends. He soon joined as KAPS Community Service Officer and then transitioned into the role of KAPS Vice President and then President. This year Dennis has joined the Board of Directors of the Korean American Community Foundation of San Francisco (KACF-SF) and will continue to serve KAPS as a Board Advisor and Treasurer in hopes to continue to contribute to the Korean Community by sharing his experiences learned here and abroad.
-
-### KAPS Membership Stats
-
-Here are stats on our main channels as of Q3 2022.
-- Facebook: The larger of our two groups has 1.5K members
-- Email: 1.2K subscribers
-- Meetup.com: 50 members
-- LinkedIn: 30 members
-
-"KAPS Organizers" has:
-- ~900 friends on Facebook
-- ~200 followers on Instagram
-- ~10 connections on LinkedIn
-- ~1 follower on TikTok
-
-### 2022 Member Survey
-
-In October 2022, we will conduct a multi-channel member survey. If you would like to help us with survey design, please email kapso@kaps.org.
-
-We will explore these segments:
-- Demographics
-    - Age
-    - Gender
-    - Marital/dating status
-    - Self-identify as Korean or Korean American
-    - Ethnicity (e.g., Korean, Asian but not Korean, Other)
-- Career
-    - Industry
-    - Role/function
-- Locations
-    - Birthplace
-    - Where you went to high school (location)
-    - Where you went to college (location)
-    - Where you live now
-    - Length of time in the Bay Area
-
-We will also ask questions about:
-- Your mental health
-- Professional level
-- Hobbies
-- Social media usage
-- How would you describe your life stage?
-- What worries you?
-- What gets you excited?
-- How can KAPS do more for you?
 
 ### Other Korean community organizations in the San Francisco Bay Area and beyond:
 
