@@ -1,0 +1,102 @@
+---
+permalink: /events.js
+---
+const timestamp = new Date()
+
+const date0 = new Date()
+date0.setDate(timestamp.getDate())
+date0.setHours(0,0,0,0)
+
+const date1 = new Date()
+date1.setDate(timestamp.getDate() - 5)
+date1.setHours(0,0,0,0)
+
+const today = date0.getTime()
+const fewdaysago = date1.getTime()
+
+appendAllEventLists()
+
+function appendAllEventLists() {
+    const container = document.getElementById('events')
+
+    var events = {{ site.data.events.flagship-events | jsonify }}
+    container.appendChild(eventsList(events, "Flagship events"))
+
+    events = {{ site.data.events.small-group-events | jsonify }}
+    container.appendChild(eventsList(events, "Small group events"))
+
+    events = {{ site.data.events.active-events | jsonify }}
+    container.appendChild(eventsList(events, "Active lifestyle events"))
+
+    events = {{ site.data.events.mental-health-events | jsonify }}
+    container.appendChild(eventsList(events, "Mental health events"))
+
+    events = {{ site.data.events.professional-development-events | jsonify }}
+    container.appendChild(eventsList(events, "Professional development events"))
+
+    events = {{ site.data.events.volunteer-events | jsonify }}
+    container.appendChild(eventsList(events, "Volunteer events"))
+
+    events = {{ site.data.events.other-events | jsonify }}
+    container.appendChild(eventsList(events, "Other events"))
+}
+
+function eventsList(events, title) {
+    const div = document.createElement('div')
+    const header = document.createElement('h3')
+    header.appendChild(document.createTextNode(title))
+    div.appendChild(header)
+
+    if (events != undefined) {
+        const list = document.createElement('ol')
+        div.appendChild(list)
+        // Convert text date to comparable dates.
+        events.forEach( event => {
+            event.expireDate = new Date(event.expire).getTime()
+        })
+        events.sort( (a, b) => {
+            return a.expireDate - b.expireDate
+        })
+        events.forEach( event => {
+            if (event.expireDate < fewdaysago) {
+                return
+            }
+            list.appendChild(eventListItem(event))
+        })
+    }
+    return div
+}
+
+function eventListItem(event) {
+    const item = document.createElement('li')
+    const p = document.createElement('p')
+    p.appendChild(ahref(event.title, event.link))
+    if (event.expireDate === today) {
+        p.appendChild(document.createTextNode(' TODAY!'))
+    } else if (event.expireDate < today) {
+        p.appendChild(document.createTextNode(' JUST MISSED THIS!'))
+    }
+    p.appendChild(br())
+    p.appendChild(document.createTextNode(event.date))
+    p.appendChild(br())
+    p.appendChild(document.createTextNode(event.location))
+    p.appendChild(br())
+    if (event.attendance != undefined) {
+        p.appendChild(document.createTextNode("Expected attendance: " + event.attendance + " people"))
+        p.appendChild(br())
+    }
+    
+    item.appendChild(p)
+    return item
+}
+
+function ahref(text, url) {
+    var a = document.createElement('a');
+    a.href = url;
+    a.innerText = text;
+    return a
+}
+
+function br() {
+    return document.createElement('br')
+}

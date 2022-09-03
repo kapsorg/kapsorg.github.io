@@ -2,7 +2,6 @@
 layout: basic
 title: About
 ---
-
 ### KAPS History
 
 KAPS was started in 1992. 
@@ -44,7 +43,7 @@ Fred is a lawyer based in San Francisco. He is passionate about building Korean 
 #### Dennis Kwon - Advisor
 Dennis is a second-generation Korean American originally hailing from NY/NJ and now a San Francisco resident. He just finished his tour of duty as a television producer for the Discovery Channel show MythBusters and is now working as the Senior Mechanical Engineer for Kitty Hawk, a Silicon Valley technology company dedicated to moving people more quickly and efficiently through personal flight, putting his degree in mechanical engineering (from Rutgers University) to work again.
 
-Dennis’s previous jobs included developing volumetric displays, working in the aerospace industry, and a career in special effects. Looking for a connection to the Korean Community, Dennis became a member of the Korean American Professional Society (KAPS) and discovered a great group of professionals as well as a great group of friends. He soon joined as KAPS Community Service Officer and then transitioned into the role of KAPS Vice President and then President. This year Dennis has joined the Board of Directors of the Korean American Community Foundation of San Francisco (KACF-SF) and will continue to serve KAPS as a Board Advisor and Treasurer in hopes to continue to contribute to the Korean Community by sharing his experiences learned here and abroad.
+Dennis’ previous jobs included developing volumetric displays, working in the aerospace industry, and a career in special effects. Looking for a connection to the Korean Community, Dennis became a member of the Korean American Professional Society (KAPS) and discovered a great group of professionals as well as a great group of friends. He soon joined as KAPS Community Service Officer and then transitioned into the role of KAPS Vice President and then President. This year Dennis has joined the Board of Directors of the Korean American Community Foundation of San Francisco (KACF-SF) and will continue to serve KAPS as a Board Advisor and Treasurer in hopes to continue to contribute to the Korean Community by sharing his experiences learned here and abroad.
 
 ### Other Korean community organizations in the San Francisco Bay Area and beyond:
 
