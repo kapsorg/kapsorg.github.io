@@ -1,5 +1,5 @@
 flagship-events:
-- title: 2022 Annual Bonfire at Ocean Beach
+- title: 2022 Annual Bonfire at Ocean Beach ($40)
   expire: 2022-9-24
   date: Saturday, Sept 24 @ 4pm
   location: Ocean Beach
@@ -11,13 +11,13 @@ flagship-events:
   location: Hayes Valley
   attendance: 12
   link: https://fb.me/e/pEKmcEc7i
-- title: Friendsgiving
+- title: Friendsgiving ($25)
   expire: 2022-11-12
   date: SATURDAY, NOVEMBER 12, 2022 AT 5 PM
   location: South Bay
   attendance: 20
   link: https://fb.me/e/2abEPnXku
-- title: 2022 KAPS Annual Holiday Party
+- title: 2022 KAPS Annual Holiday Party ($50)
   expire: 2022-12-10
   date: Saturday, December 10 @ 5pm
   location: San Francisco
@@ -31,11 +31,11 @@ flagship-events:
   link: https://fb.me/e/23HWDdUJ4
 
 small-group-events:
-- title: KAPS Family Dinner
+- title: KAPS Family Dinner (12 only, $20)
   expire: 2022-9-9
-  date: Friday, Sept 9 @ 7pm
+  date: FRIDAY, SEPTEMBER 9, 2022 AT 7 PM
   location: Hayes Valley
-  attendance: 8
+  attendance: 12
   link: https://fb.me/e/29SS6ExuU
 - title: New Google Campus Tour in South Bay
   expire: 2022-9-30
