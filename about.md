@@ -2,9 +2,6 @@
 layout: basic
 title: About
 ---
-### KAPS History
-
-KAPS was started in 1992. 
 
 ### Leadership
 
