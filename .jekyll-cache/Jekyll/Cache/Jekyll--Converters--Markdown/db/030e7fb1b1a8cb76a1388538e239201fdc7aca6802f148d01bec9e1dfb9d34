@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>About KAPS - Korean American Professional Society in the San Francisco Bay Area</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5 markdown-body">
-    <nav>
-      <a href="/">Home</a>
-      <a href="/events">Events</a>
-      <a href="/about">About</a>
-      <a href="/survey">2022 Member Survey</a>
-    </nav>
-    <h2 id="kaps-leadership">KAPS Leadership</h2>
+I"3<h1 id="kaps-leadership">KAPS Leadership</h1>
 
 <p>Find us on our <a href="https://www.linkedin.com/groups/13793184/">LinkedIn group</a>.</p>
 
@@ -71,11 +51,4 @@ The Association of Korean Adoptees San Francisco (AKASF) is a 501(C)(3) nonprofi
 
 <p><a href="https://koreancentersf.org/">Korean Center, Inc. San Francisco</a> <br />
 Korean Center, Inc. (KCI), founded in 1974, is a non-profit community-based organization dedicated to creating a vibrant, engaged community where Korean culture and heritage are explored, celebrated, and preserved for future generations. Whether you want to explore your own Korean heritage, introduce your children to that heritage, or simply want to learn about a new culture, KCI can help you connect to all things Korean!</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET

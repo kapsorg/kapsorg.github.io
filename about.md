@@ -3,7 +3,7 @@ layout: basic
 title: About
 ---
 
-### Leadership
+## KAPS Leadership
 
 Find us on our [LinkedIn group](https://www.linkedin.com/groups/13793184/).
 

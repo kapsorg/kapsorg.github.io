@@ -3,9 +3,9 @@ layout: basic
 title: 2022 Member Survey
 ---
 
-### 2022 KAPS Member Survey
+## 2022 KAPS Member Survey
 
-In October 2022, we will conduct a multi-channel member survey. If you would like to help us with survey design, please email kapso@kaps.org.
+In Q4 2022, we will conduct a multi-channel member survey. If you would like to help us with survey design, please email kapso@kaps.org.
 
 We will explore these segments:
 - Demographics

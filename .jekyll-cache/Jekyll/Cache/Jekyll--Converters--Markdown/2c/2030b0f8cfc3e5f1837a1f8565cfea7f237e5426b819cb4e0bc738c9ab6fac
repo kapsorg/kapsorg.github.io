@@ -1,26 +1,6 @@
-<!doctype html>
-<html>
+I"á<h2 id="2022-kaps-member-survey">2022 KAPS Member Survey</h2>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>2022 Member Survey KAPS - Korean American Professional Society in the San Francisco Bay Area</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5 markdown-body">
-    <nav>
-      <a href="/">Home</a>
-      <a href="/events">Events</a>
-      <a href="/about">About</a>
-      <a href="/survey">2022 Member Survey</a>
-    </nav>
-    <h2 id="2022-kaps-member-survey">2022 KAPS Member Survey</h2>
-
-<p>In Q4 2022, we will conduct a multi-channel member survey. If you would like to help us with survey design, please email kapso@kaps.org.</p>
+<p>In October 2022, we will conduct a multi-channel member survey. If you would like to help us with survey design, please email kapso@kaps.org.</p>
 
 <p>We will explore these segments:</p>
 <ul>
@@ -79,11 +59,4 @@
   <li>~10 connections on LinkedIn</li>
   <li>~1 follower on TikTok</li>
 </ul>
-
-    <footer>
-      <p>KAPS loves you üòç, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
