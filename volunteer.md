@@ -29,7 +29,7 @@ Send out the monthly newsletter, and reminder emails for events. The email will 
 
 **New member email welcomer**
 Email each new member and get to know them personally. You will use welcome@kaps.org email account. But you will personally sign each email. A short blurb about you and your profile photo will accompany each email. \
-[Detailed Instructions](https://docs.google.com/document/d/1NOZIf2uf5NHSGb7DoVrLdIIL1F_6WFbPC6dmrSr-7d4/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1NOZIf2uf5NHSGb7DoVrLdIIL1F_6WFbPC6dmrSr-7d4/edit?usp=sharing){:target="_blank"}
 
 **Facebook account manager**
 You will be given access to the "KAPS Organizers" account. Your goal is to increase the "KAPS Newbies & Active Members Only" group and increase engagement. Create FB events (for events from planners) and promote events. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Somehow you need to coordinate with the Instagram manager so that members aren't being bombarded with direct messages from both platforms. Your face will be on the account profile photo. 
@@ -39,7 +39,7 @@ You will be given access to the "KAPS Organizers" account. Your goal is to incre
 
 **Instagram account manager**
 You will be given access to the @kaps_org Instagram account. Your goal is to increase followers and increase engagement. You will post fun stories at least several times a week from your own personal life but make it relevant to the KAPS audience. You will also promote each event. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. \
-[Detailed Instructions](https://docs.google.com/document/d/1GoGvWdBap_tbO-Ty39L9VCaVw4Hrnh2ecEx_aztIJh0/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1GoGvWdBap_tbO-Ty39L9VCaVw4Hrnh2ecEx_aztIJh0/edit?usp=sharing){:target="_blank"}
 
 **TikTok account manager**
 This role is similar to the Instagram manager role. There are differences, however. The TikTok account is new and has no followers. Also, we would like to do fun TikTok videos with KAPS members. Ideas include dancing, funny skits, etc. 
@@ -53,31 +53,31 @@ All of these roles have a 6 month minimum commitment.
 
 **Kappy Hour planner**
 Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to all the channel managers. Estimate that each event takes 2 hours to plan total. \
-[Detailed Instructions](https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing){:target="_blank"}
 
 **Small group social event planner**
 Plan dinners, party nights, norebang, etc. You'll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You'll setup the ticketing, create marketing graphics, and send it to all the channel managers. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Mental health small group leader**
 Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like "Where do we begin" by Esther Perel. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Active lifestyle event planner**
 Plan a hike, tennis group, basketball group, yoga event, etc. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Community service event planner**
 Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Professional development event planner**
 Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Cultural event planner**
 Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is no minimum commitment. You can plan just one event. \
-[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 ### Technical Roles
 {: .border-bottom .blue}
