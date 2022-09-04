@@ -1,10 +1,12 @@
 ---
 layout: basic
-title: KAPS Volunteer Role Openings
+title: KAPS Volunteer Roles
 ---
 
-## Volunteer Role Openings
+## Volunteer Roles
 We are excited about the next year. We are rapidly expanding KAPS since people are now more comfortable with meeting IRL. Join at this exciting moment!
+
+The benefits of volunteering are 1) being part of an intimate community, 2) expanding your leadership skills, and 3) going to the annual KAPS leadership Lake Tahoe retreat!
 
 There are over 20 roles. [Express interest here](https://kaps.org/volunteer).
 
