@@ -8,7 +8,7 @@ We are excited about the next year. We are rapidly expanding KAPS since people a
 
 The benefits of volunteering are 1) being part of an intimate community, 2) expanding your leadership skills, and 3) going to the annual KAPS leadership Lake Tahoe retreat!
 
-There are over 20 roles. [Express interest here](https://kaps.org/volunteer).
+There are over 20 roles. [Express interest here](https://kaps.org/volunteer-interest).
 
 ### IRL Roles
 {: .border-bottom .blue}
