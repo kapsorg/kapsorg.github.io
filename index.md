@@ -18,6 +18,6 @@ Here are the best ways to get connected:
 4.  Follow [@kaps_org](https://www.instagram.com/kaps_org/) on Instagram.
 
 We need more KAPS volunteers! [Explore roles here](/volunteer). \
-Most needed are: photographer, social media managers, and a designer to revamp this website design.
+Most needed are: photographer, social media managers, and event planners.
 
 {% include instagramfeed.html %}
