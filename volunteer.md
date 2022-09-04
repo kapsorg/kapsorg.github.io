@@ -52,25 +52,32 @@ You will be given access to the @kapsorg LinkedIn account. Your goal is the incr
 All of these roles have a 6 month minimum commitment.
 
 **Kappy Hour planner**
-Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to all the channel managers. Estimate that each event takes 2 hours to plan total.
+Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to all the channel managers. Estimate that each event takes 2 hours to plan total. \
+[Detailed Instructions](https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing)
 
 **Small group social event planner**
-Plan dinners, party nights, norebang, etc. You'll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You'll setup the ticketing, create marketing graphics, and send it to all the channel managers. 
+Plan dinners, party nights, norebang, etc. You'll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You'll setup the ticketing, create marketing graphics, and send it to all the channel managers. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 **Mental health small group leader**
-Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like "Where do we begin" by Esther Perel.  
+Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like "Where do we begin" by Esther Perel. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 **Active lifestyle event planner**
-Plan a hike, tennis group, basketball group, yoga event, etc. 
+Plan a hike, tennis group, basketball group, yoga event, etc. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 **Community service event planner**
-Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. 
+Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 **Professional development event planner**
-Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help.  
+Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 **Cultural event planner**
-Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is not minimum commitment. You can plan just one event. 
+Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is no minimum commitment. You can plan just one event. \
+[Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing)
 
 ### Technical Roles
 {: .border-bottom .blue}

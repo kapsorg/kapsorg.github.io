@@ -1,25 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS Volunteer Roles | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Volunteer</a> | 
-      <a href="/survey">2022 Member Survey</a>
-    </nav>
-    <h2 id="volunteer-roles">Volunteer Roles</h2>
+I"y"<h2 id="volunteer-roles">Volunteer Roles</h2>
 <p>We are excited about the next year. We are rapidly expanding KAPS since people are now more comfortable with meeting IRL. Join at this exciting moment!</p>
 
 <p>The benefits of volunteering are 1) being part of an intimate community, 2) expanding your leadership skills, and 3) going to the annual KAPS leadership Lake Tahoe retreat!</p>
@@ -69,28 +48,22 @@ Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also w
 <a href="https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing">Detailed Instructions</a></p>
 
 <p><strong>Small group social event planner</strong>
-Plan dinners, party nights, norebang, etc. You’ll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You’ll setup the ticketing, create marketing graphics, and send it to all the channel managers. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Plan dinners, party nights, norebang, etc. You’ll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You’ll setup the ticketing, create marketing graphics, and send it to all the channel managers.</p>
 
 <p><strong>Mental health small group leader</strong>
-Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like “Where do we begin” by Esther Perel. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like “Where do we begin” by Esther Perel.</p>
 
 <p><strong>Active lifestyle event planner</strong>
-Plan a hike, tennis group, basketball group, yoga event, etc. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Plan a hike, tennis group, basketball group, yoga event, etc.</p>
 
 <p><strong>Community service event planner</strong>
-Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc.</p>
 
 <p><strong>Professional development event planner</strong>
-Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help.</p>
 
 <p><strong>Cultural event planner</strong>
-Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is no minimum commitment. You can plan just one event. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing">Detailed Instructions</a></p>
+Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is not minimum commitment. You can plan just one event.</p>
 
 <h3 class="border-bottom blue" id="technical-roles">Technical Roles</h3>
 <p>These roles vary in commitment, and is flexible.</p>
@@ -123,11 +96,4 @@ Eddy Jin, one of our officers and a Google engineer, will be leading a various i
 
 <h3 class="border-bottom blue" id="kaps-advisory-board">KAPS Advisory Board</h3>
 <p>The advisory board helps to guide the organization’s mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents, but we are open to outside board members.</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
