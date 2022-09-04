@@ -3,9 +3,13 @@ layout: basic
 title: About KAPS
 ---
 
-## KAPS Leadership
+## Leadership
 
 Find us on our [LinkedIn group](https://www.linkedin.com/groups/13793184/).
+
+### KAPS Officers
+{: .border-bottom .blue}
+Officers lead the direction of the organization, and address any organizational issues. It is the officers' job to ensure that there are enough planned events and that the organization is thriving. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. 
 
 #### Lisa Oh - President [LinkedIn](https://www.linkedin.com/in/lisaohpmp/)
 Lisa moved to San Francisco in December 2017 from Seattle. She is currently a Senior Program Manager at Samsung, where she manages multiple flagship SMART wearable products.
@@ -36,6 +40,10 @@ He received his MBA from University of Southern California Marshall School of Bu
 #### Kevin Kang - Membership Chair
 Kevin is currently a small business owner at San Francisco in the Financial District. He was born in Pusan, South Korea then moved to San Francisco with his family when he was 8. He finished his education in Business at SFSU. In his spare time, he likes hiking, watching sports and listening to music. As the membership chair he is hoping to grow and bring Korean Americans closer within the community.
 
+### KAPS Advisory Board
+{: .border-bottom .blue}
+The advisory board helps to guide the organization's mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents, but we are open to outside board members.  
+
 #### Fred Choi - Advisor [LinkedIn](https://www.linkedin.com/in/fredchoi/)
 Fred is a lawyer based in San Francisco. He is passionate about building Korean and Korean American community in the Bay Area of California.
 
@@ -46,7 +54,8 @@ Dennis is a second-generation Korean American originally hailing from NY/NJ and 
 
 Dennis’ previous jobs included developing volumetric displays, working in the aerospace industry, and a career in special effects. Looking for a connection to the Korean Community, Dennis became a member of the Korean American Professional Society (KAPS) and discovered a great group of professionals as well as a great group of friends. He soon joined as KAPS Community Service Officer and then transitioned into the role of KAPS Vice President and then President. This year Dennis has joined the Board of Directors of the Korean American Community Foundation of San Francisco (KACF-SF) and will continue to serve KAPS as a Board Advisor and Treasurer in hopes to continue to contribute to the Korean Community by sharing his experiences learned here and abroad.
 
-### Other Korean community organizations in the San Francisco Bay Area and beyond:
+### Other Korean community organizations in the San Francisco Bay Area
+{: .border-bottom .blue}
 
 [KACF-SF is the Korean American Community Foundation of San Francisco](https://www.kacfsf.org) \
 Korean American Community Foundation of San Francisco (KACF-SF) was founded in 2014 by thirteen women who recognized the critical needs in the greater Bay Area and realized the potential of philanthropic giving among Korean Americans. KACF-SF invests in solutions that build bridges to success by providing grants and building capacity to our nonprofit partners.

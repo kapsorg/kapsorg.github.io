@@ -1,9 +1,9 @@
-I"�<h2 id="volunteer-role-openings">Volunteer Role Openings</h2>
+I"' <h2 id="volunteer-role-openings">Volunteer Role Openings</h2>
 <p>We are excited about the next year. We are rapidly expanding KAPS since people are now more comfortable with meeting IRL. Join at this exciting moment!</p>
 
-<p>There are over 20 roles.</p>
+<p>There are over 20 roles. <a href="https://kaps.org/volunteer">Express interest here</a>.</p>
 
-<h3 id="irl-roles">IRL Roles</h3>
+<h3 class="border-bottom blue" id="irl-roles">IRL Roles</h3>
 <p>These roles do not have a minimum commitment.</p>
 
 <p><strong>Photographer</strong>
@@ -12,7 +12,7 @@ Take photos at our events, including the Kappy Hours and our flagship events. Yo
 <p><strong>Kappy Hour greeter</strong>
 You should think of yourself as the host of the Kappy Hour. You will introduce yourself to everyone at the Kappy Hour. You will get to know their backgrounds and stories. And you will help to connect people with others that they might want to get to know. It helps to be good with names and faces. It helps to be outgoing.</p>
 
-<h3 id="channel-managers">Channel Managers</h3>
+<h3 class="border-bottom blue" id="channel-managers">Channel Managers</h3>
 <p>Most of these roles have a 6 month commitment.</p>
 
 <p><strong>Email newsletter manager</strong>
@@ -36,7 +36,7 @@ This role is similar to the Instagram manager role. There are differences, howev
 <p><strong>LinkedIn account manager</strong>
 You will be given access to the @kapsorg LinkedIn account. Your goal is the increase connections and increase membership in the KAPS group. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. You should create lists of members in similar professions so that we can create professional development events for those groups.</p>
 
-<h3 id="event-planners">Event Planners</h3>
+<h3 class="border-bottom blue" id="event-planners">Event Planners</h3>
 <p>All of these roles have a 6 month minimum commitment.</p>
 
 <p><strong>Kappy Hour planner</strong>
@@ -60,7 +60,7 @@ Plan fireside chats, talks, learning opportunities, and small group discussion r
 <p><strong>Cultural event planner</strong>
 Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is not minimum commitment. You can plan just one event.</p>
 
-<h3 id="technical-roles">Technical Roles</h3>
+<h3 class="border-bottom blue" id="technical-roles">Technical Roles</h3>
 <p>These roles vary in commitment, and is flexible.</p>
 
 <p><strong>Website designer</strong> 
@@ -72,7 +72,7 @@ The kaps.org website is built on Github pages using Jekyll. It is a simple, blog
 <p><strong>Software engineer</strong>
 Eddy Jin, one of our officers and a Google engineer, will be leading a various interesting software projects. This is a good opportunity for a new or aspiring developer to be mentored by a seasoned engineer. One project is to streamline the marketing workflow from event creation to multi-channel publishing.</p>
 
-<h3 id="officers">Officers</h3>
+<h3 class="border-bottom blue" id="officers">Officers</h3>
 <p>Officers are leadership roles at KAPS. We are always looking for the next cohort of leaders to take over. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. Officers lead the direction of the organization, and address any organizational issues. It is the officers’ job to ensure that there are enough planned events and that the organization is thriving.</p>
 
 <p>Officer roles include:</p>
@@ -88,4 +88,7 @@ Eddy Jin, one of our officers and a Google engineer, will be leading a various i
   <li>Swag Chair</li>
   <li>Sponsorship Chair</li>
 </ul>
+
+<h3 class="border-bottom blue" id="kaps-advisory-board">KAPS Advisory Board</h3>
+<p>The advisory board helps to guide the organization’s mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents, but we are open to outside board members.</p>
 :ET

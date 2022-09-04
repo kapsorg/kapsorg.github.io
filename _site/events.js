@@ -32,7 +32,10 @@ function appendAllEventLists() {
     container.appendChild(eventsList(events, "Professional development events"))
 
     events = null
-    container.appendChild(eventsList(events, "Volunteer events"))
+    container.appendChild(eventsList(events, "Community service events"))
+
+    events = null
+    container.appendChild(eventsList(events, "Cultural events"))
 
     events = [{"title":"KAPS Friends go together to Chuseok Festival in Presidio","expire":"2022-9-10","date":"SATURDAY, SEPTEMBER 10, 2022 AT 11 AM","location":"Presidio Main Parade Lawn","link":"https://fb.me/e/2fQDgZfwN"},{"title":"KAPS Friends Bar Hopping after Chuseok Festival","expire":"2022-9-10","date":"SATURDAY, SEPTEMBER 10, 2022 AT 9 PM","location":"Start at \"Brass Tacks\" in Hayes Valley","link":"https://fb.me/e/1IzF6LFj3"},{"title":"KAPS in Koreatown LA - Oct 15","expire":"2022-10-15","date":"SATURDAY, OCTOBER 15, 2022 AT 6 PM","location":"Koreatown, LA","link":"https://fb.me/e/2lSfNW9qP"}]
     container.appendChild(eventsList(events, "Other events"))
@@ -46,6 +49,7 @@ function eventsList(events, title) {
 
     if (events != undefined) {
         const list = document.createElement('ol')
+        list.className = 'smaller-line-height'
         div.appendChild(list)
         // Convert text date to comparable dates.
         events.forEach( event => {

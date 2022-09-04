@@ -9,7 +9,7 @@ We are excited about the next year. We are rapidly expanding KAPS since people a
 There are over 20 roles. [Express interest here](https://kaps.org/volunteer).
 
 ### IRL Roles
-{: .border-bottom}
+{: .border-bottom .blue}
 These roles do not have a minimum commitment. 
 
 **Photographer**
@@ -19,7 +19,7 @@ Take photos at our events, including the Kappy Hours and our flagship events. Yo
 You should think of yourself as the host of the Kappy Hour. You will introduce yourself to everyone at the Kappy Hour. You will get to know their backgrounds and stories. And you will help to connect people with others that they might want to get to know. It helps to be good with names and faces. It helps to be outgoing.
 
 ### Channel Managers
-{: .border-bottom}
+{: .border-bottom .blue}
 Most of these roles have a 6 month commitment. 
 
 **Email newsletter manager**
@@ -44,7 +44,7 @@ This role is similar to the Instagram manager role. There are differences, howev
 You will be given access to the @kapsorg LinkedIn account. Your goal is the increase connections and increase membership in the KAPS group. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. You should create lists of members in similar professions so that we can create professional development events for those groups. 
 
 ### Event Planners
-{: .border-bottom}
+{: .border-bottom .blue}
 All of these roles have a 6 month minimum commitment.
 
 **Kappy Hour planner**
@@ -69,7 +69,7 @@ Plan fireside chats, talks, learning opportunities, and small group discussion r
 Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is not minimum commitment. You can plan just one event. 
 
 ### Technical Roles
-{: .border-bottom}
+{: .border-bottom .blue}
 These roles vary in commitment, and is flexible.
 
 **Website designer** 
@@ -82,7 +82,7 @@ The kaps.org website is built on Github pages using Jekyll. It is a simple, blog
 Eddy Jin, one of our officers and a Google engineer, will be leading a various interesting software projects. This is a good opportunity for a new or aspiring developer to be mentored by a seasoned engineer. One project is to streamline the marketing workflow from event creation to multi-channel publishing.
 
 ### Officers
-{: .border-bottom}
+{: .border-bottom .blue}
 Officers are leadership roles at KAPS. We are always looking for the next cohort of leaders to take over. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. Officers lead the direction of the organization, and address any organizational issues. It is the officers' job to ensure that there are enough planned events and that the organization is thriving.
 
 Officer roles include:
@@ -96,3 +96,7 @@ Officer roles include:
 - Membership Chair
 - Swag Chair
 - Sponsorship Chair
+
+### KAPS Advisory Board
+{: .border-bottom .blue}
+The advisory board helps to guide the organization's mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents, but we are open to outside board members. 

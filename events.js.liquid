@@ -35,7 +35,10 @@ function appendAllEventLists() {
     container.appendChild(eventsList(events, "Professional development events"))
 
     events = {{ site.data.events.volunteer-events | jsonify }}
-    container.appendChild(eventsList(events, "Volunteer events"))
+    container.appendChild(eventsList(events, "Community service events"))
+
+    events = {{ site.data.events.cultural-events | jsonify }}
+    container.appendChild(eventsList(events, "Cultural events"))
 
     events = {{ site.data.events.other-events | jsonify }}
     container.appendChild(eventsList(events, "Other events"))
@@ -49,6 +52,7 @@ function eventsList(events, title) {
 
     if (events != undefined) {
         const list = document.createElement('ol')
+        list.className = 'smaller-line-height'
         div.appendChild(list)
         // Convert text date to comparable dates.
         events.forEach( event => {
