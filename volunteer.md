@@ -28,7 +28,8 @@ Most of these roles have a 6 month commitment.
 Send out the monthly newsletter, and reminder emails for events. The email will be sent from the newsletter@kaps.org Mailchimp account, but you will personally sign each email. A short blurb about you and your profile photo will accompany each email. 
 
 **New member email welcomer**
-Email each new member and get to know them personally. You will use welcome@kaps.org email account. But you will personally sign each email. A short blurb about you and your profile photo will accompany each email.  
+Email each new member and get to know them personally. You will use welcome@kaps.org email account. But you will personally sign each email. A short blurb about you and your profile photo will accompany each email. \
+[Detailed Instructions](https://docs.google.com/document/d/1NOZIf2uf5NHSGb7DoVrLdIIL1F_6WFbPC6dmrSr-7d4/edit?usp=sharing)
 
 **Facebook account manager**
 You will be given access to the "KAPS Organizers" account. Your goal is to increase the "KAPS Newbies & Active Members Only" group and increase engagement. Create FB events (for events from planners) and promote events. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Somehow you need to coordinate with the Instagram manager so that members aren't being bombarded with direct messages from both platforms. Your face will be on the account profile photo. 
@@ -37,7 +38,8 @@ You will be given access to the "KAPS Organizers" account. Your goal is to incre
 You will be given access to the "KAPS Organizers" account. Your goal is to increase the KAPS group and increase engagement. Create Meetup.com events (for events from planners) and promote events. Engage users directly and get to know them personally. Your face will be on the account profile photo. 
 
 **Instagram account manager**
-You will be given access to the @kaps_org Instagram account. Your goal is to increase followers and increase engagement. You will post fun stories at least several times a week from your own personal life but make it relevant to the KAPS audience. You will also promote each event. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. 
+You will be given access to the @kaps_org Instagram account. Your goal is to increase followers and increase engagement. You will post fun stories at least several times a week from your own personal life but make it relevant to the KAPS audience. You will also promote each event. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. \
+[Detailed Instructions](https://docs.google.com/document/d/1GoGvWdBap_tbO-Ty39L9VCaVw4Hrnh2ecEx_aztIJh0/edit?usp=sharing)
 
 **TikTok account manager**
 This role is similar to the Instagram manager role. There are differences, however. The TikTok account is new and has no followers. Also, we would like to do fun TikTok videos with KAPS members. Ideas include dancing, funny skits, etc. 
