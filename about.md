@@ -12,26 +12,26 @@ Lisa moved to San Francisco in December 2017 from Seattle. She is currently a Se
 
 She received her Master of Science and the Bachelor of Science degrees in Electrical Engineering from the University of Washington. As the President of KAPS, Lisa hopes to serve and empower the professional and personal development of the community. In her spare time, she enjoys traveling as well as outdoor activities such as cycling, running, swimming, and hiking.
 
-#### Petra Jung - Vice President [LinkedIn](https://www.linkedin.com/in/petrajung/)
-Petra is a business professional with leadership, project and program management experience on an international scale in multiple countries. She has a true passion for working with, understanding, and developing people to enable personal growth and high performance output. She is bilingual and has a forte in communicating ideas cross functionally as a business and information liaison. She hopes to share her passion through the Korean American Professional Society and looks forward to all the meaningful engagements she’ll be encountering through the community.
+#### Eddy Jin - Vice President [LinkedIn](https://www.linkedin.com/in/eddy-jin-936b37239/)
+Eddy is an engineer with Google on the Chrome browser team. He is originally from Queens, New York. He loves running, cycling and hanging out with his family in Orange County.
 
 #### Cathy Son - Treasurer [LinkedIn](https://www.linkedin.com/in/cathlinson/)
 Cathy Son is a Senior Accountant working at a graduate school in Peninsula where she heavily works on reconciliation, overviewing students’ accounts, and other various projects related to accounting/finance.
 
 She graduated from Cal State University Fullerton in sunny Southern California with B.A in Business/Accounting. In her spare time, she goes to the gym, indoor rock climbing, practices yoga, plays golf, goes for a walk and meets new people at happy hour events. She’s excited to be part of KAPS community, see many people get involved in Korean American community and connected with each other.
 
-#### Eddy Jin - Community Manager [LinkedIn](https://www.linkedin.com/in/eddy-jin-936b37239/)
-Eddy is an engineer with Google on the Chrome browser team. He is originally from Queens, New York. He loves running, cycling and hanging out with his family in Orange County.
-
-#### Ken Lee - Professional Development Chair [LinkedIn](https://www.linkedin.com/in/kenleekh/)
-Ken works in Corporate Development for the Samsung Strategy & Innovation Center, focused on automotive tech and future mobility. Previously, he worked in investment banking covering semiconductors and autonomous technology.
-
-He received his MBA from University of Southern California Marshall School of Business, and prior to that was working in Seoul as an investment banker. Ken also served in the Korean military, including a tour in Iraq. Ken is an avid traveler, reader and gamer, and loves hosting dinners with friends and good wine. Through KAPS, Ken hopes to better connect professionals in the Bay Area to help further the career goals of KAP members.
+#### Petra Jung - Social Chair [LinkedIn](https://www.linkedin.com/in/petrajung/)
+Petra is a business professional with leadership, project and program management experience on an international scale in multiple countries. She has a true passion for working with, understanding, and developing people to enable personal growth and high performance output. She is bilingual and has a forte in communicating ideas cross functionally as a business and information liaison. She hopes to share her passion through the Korean American Professional Society and looks forward to all the meaningful engagements she’ll be encountering through the community.
 
 #### Kawon Lee - Social Chair [LinkedIn](https://www.linkedin.com/in/kawon-catherine-l-76a7718/)
 Kawon has been involved with various Korean and Korean American interest organizations over the years. Formerly a software engineer, Kawon currently works as an attorney and assists tech companies on intellectual property matters.
 
 Through KAPS, she hopes to provide opportunities for Bay Area professionals to network and get more involved in the community.
+
+#### Ken Lee - Professional Development Chair [LinkedIn](https://www.linkedin.com/in/kenleekh/)
+Ken works in Corporate Development for the Samsung Strategy & Innovation Center, focused on automotive tech and future mobility. Previously, he worked in investment banking covering semiconductors and autonomous technology.
+
+He received his MBA from University of Southern California Marshall School of Business, and prior to that was working in Seoul as an investment banker. Ken also served in the Korean military, including a tour in Iraq. Ken is an avid traveler, reader and gamer, and loves hosting dinners with friends and good wine. Through KAPS, Ken hopes to better connect professionals in the Bay Area to help further the career goals of KAP members.
 
 #### Kevin Kang - Membership Chair
 Kevin is currently a small business owner at San Francisco in the Financial District. He was born in Pusan, South Korea then moved to San Francisco with his family when he was 8. He finished his education in Business at SFSU. In his spare time, he likes hiking, watching sports and listening to music. As the membership chair he is hoping to grow and bring Korean Americans closer within the community.
