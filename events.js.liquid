@@ -98,6 +98,7 @@ function ahref(text, url) {
     var a = document.createElement('a');
     a.href = url;
     a.innerText = text;
+    a.target = '_blank'
     return a
 }
 
