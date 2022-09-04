@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Events
+title: KAPS Events
 ---
 For the latest information, join our Facebook Group called [KAPS Newbies & Active Members Only](https://www.facebook.com/groups/kaps.newbies/events).
 
