@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: 2022 Member Survey
+title: KAPS 2022 Member Survey
 ---
 
 ## 2022 KAPS Member Survey

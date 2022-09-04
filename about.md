@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: About
+title: About KAPS
 ---
 
 ## KAPS Leadership

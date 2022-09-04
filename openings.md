@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: Volunteer Role Openings
+title: KAPS Volunteer Role Openings
 ---
 
 ## Volunteer Role Openings

@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: 
+title: KAPS
 ---
 
 ### KAPS
