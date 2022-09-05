@@ -17,7 +17,7 @@ Here are the best ways to get connected:
 3.  Join the [KAPS LinkedIn group](https://www.linkedin.com/groups/13793184/){:target="_blank"}.
 4.  Follow [@kaps_org](https://www.instagram.com/kaps_org/){:target="_blank"} on Instagram.
 
-We need more KAPS volunteers! [Explore roles here](/volunteer){:target="_blank"}. \
+We need more KAPS volunteers! [Explore roles here](/volunteer). \
 Most needed are: photographer, social media managers, and event planners.
 
 {% include instagramfeed.html %}
