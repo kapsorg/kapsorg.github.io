@@ -10,7 +10,7 @@ There are over 20 roles. [Express interest here](https://kaps.org/volunteer-inte
 
 ## Officers (led by Lisa)
 {: .border-bottom .blue}
-Officers are leadership roles at KAPS. We are always looking for the next cohort of leaders to take over. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. Officers lead the direction of the organization, and address any organizational issues. It is the officers' job to ensure that there are enough planned events and that the organization is thriving.
+Officers are leadership roles at KAPS. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. Officers lead the direction of the organization, and address any organizational issues. It is the officers' job to ensure that there are enough planned events and that the organization is thriving.
 
 Officer roles include:
 - President - Lisa Oh
