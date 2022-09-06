@@ -23,7 +23,7 @@ Officer positions:
 - Community Service & Cultural Chair (Open Position) - Plans community service and cultural events. Also responsible for connecting with the Korean Consulate.
 - Mental Health Chair (Open Position) - Plans small discussion groups and one larger mental health talk.
 - Swag Chair (Open Position) - This is an arts and craft position to design and create t-shirts, tote bags, and other items we can sell.
-- Sponsorship & Fundraising Chair (Open Position) - Creates relationships with professionals and brands that want to advertise to KAPS membership. Also creates fundraising programs, such as selling swag. 
+- Sponsorship & Fundraising Chair (Open Position) - Creates relationships with businesses and brands that want to advertise to KAPS membership. Also creates fundraising programs, such as selling swag. 
 
 ## Social Committee (led by Petra & Kawon)
 {: .border-bottom .blue} 
