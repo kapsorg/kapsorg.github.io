@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS Volunteer Roles | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Volunteer</a>
-    </nav>
-    <h2 id="volunteer-for-kaps">Volunteer for KAPS!</h2>
+I"3'<h2 id="volunteer-for-kaps">Volunteer for KAPS!</h2>
 <p>We are excited about the next year as everyone is starting to come out of isolation. Join us at this exciting moment!</p>
 
 <p>There are over 20 roles. <a href="https://kaps.org/volunteer-interest" target="_blank">Express interest here</a>.</p>
@@ -28,16 +8,16 @@
 
 <p>Officer roles include:</p>
 <ul>
-  <li>President - Lisa Oh</li>
-  <li>Vice President - Eddy Jin</li>
-  <li>Treasurer - Cathy Son</li>
-  <li>Social Chairs - Petra Jung &amp; Kawon Lee</li>
-  <li>Professional Development Chair - Ken Lee</li>
-  <li>Membership Chair - Kevin Kang</li>
-  <li>Sponsorship Chair - Fred Choi</li>
-  <li>Marketing Chair (Open Position)</li>
-  <li>Community Service Chair (Open Position)</li>
-  <li>Swag Chair (Open Position)</li>
+  <li>President</li>
+  <li>Vice President</li>
+  <li>Treasurer</li>
+  <li>Community Manager</li>
+  <li>Social Chair</li>
+  <li>Community Service Chair</li>
+  <li>Professional Development Chair</li>
+  <li>Membership Chair</li>
+  <li>Swag Chair</li>
+  <li>Sponsorship Chair</li>
 </ul>
 
 <h2 class="border-bottom blue" id="social-committee-led-by-petra--kawon">Social Committee (led by Petra &amp; Kawon)</h2>
@@ -53,11 +33,11 @@ You should think of yourself as the host of the Kappy Hour. You will introduce y
 <h3 id="event-planners">Event Planners</h3>
 
 <p><strong>Kappy Hour planner</strong>
-Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to the marketing committee. Estimate that each event takes 2 hours to plan total. <br />
+Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to all the channel managers. Estimate that each event takes 2 hours to plan total. <br />
 <a href="https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
 <p><strong>Small group social event planner</strong>
-Plan dinners, party nights, norebang, etc. You’ll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You’ll setup the ticketing, create marketing graphics, and send it to the marketing committee. <br />
+Plan dinners, party nights, norebang, etc. You’ll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You’ll setup the ticketing, create marketing graphics, and send it to all the channel managers. <br />
 <a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
 <p><strong>Active lifestyle event planner</strong>
@@ -65,10 +45,6 @@ Plan a hike, tennis group, basketball group, yoga event, etc. <br />
 <a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
 <h2 class="border-bottom blue" id="marketing-committee-led-by-eddy--kevin">Marketing Committee (led by Eddy &amp; Kevin)</h2>
-
-<p>Anyone is welcome to join one of our weekly meetings if they are interested in potentially joining. Email eddy@kaps.org to give a heads up that you’d like to join. <br />
-Weekly on Sunday 8:30pm. <br />
-Google Meet: <a href="meet.google.com/obw-qzxc-afx" target="_blank">meet.google.com/obw-qzxc-afx</a></p>
 
 <p><strong>Email newsletter manager</strong>
 Send out the monthly newsletter, and reminder emails for events. The email will be sent from the newsletter@kaps.org Mailchimp account, but you will personally sign each email. A short blurb about you and your profile photo will accompany each email.</p>
@@ -129,11 +105,4 @@ Eddy Jin, one of our officers and a Google engineer, will be leading a various i
 
 <h2 class="border-bottom blue" id="kaps-advisory-board-led-by-lisa">KAPS Advisory Board (led by Lisa)</h2>
 <p>The advisory board helps to guide the organization’s mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents.</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET

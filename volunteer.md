@@ -8,23 +8,23 @@ We are excited about the next year as everyone is starting to come out of isolat
 
 There are over 20 roles. [Express interest here](https://kaps.org/volunteer-interest){:target="_blank"}.
 
-## Officers (under Lisa)
+## Officers (led by Lisa)
 {: .border-bottom .blue}
 Officers are leadership roles at KAPS. We are always looking for the next cohort of leaders to take over. Officers have at least a 1 year commitment, but are encouraged to serve 2-3 year terms. Officers must attend biweekly meetings on Wednesday evenings. Officers lead the direction of the organization, and address any organizational issues. It is the officers' job to ensure that there are enough planned events and that the organization is thriving.
 
 Officer roles include:
-- President
-- Vice President
-- Treasurer
-- Community Manager
-- Social Chair
-- Community Service Chair
-- Professional Development Chair
-- Membership Chair
-- Swag Chair
-- Sponsorship Chair
+- President - Lisa Oh
+- Vice President - Eddy Jin
+- Treasurer - Cathy Son
+- Social Chairs - Petra Jung & Kawon Lee
+- Professional Development Chair - Ken Lee
+- Membership Chair - Kevin Kang
+- Sponsorship Chair - Fred Choi
+- Marketing Chair (Open Position)
+- Community Service Chair (Open Position)
+- Swag Chair (Open Position)
 
-## Social Committee (under Petra & Kawon)
+## Social Committee (led by Petra & Kawon)
 {: .border-bottom .blue} 
 
 You can be a photographer or greeter for a single event, and there are no additional expectations beyond that.
@@ -38,19 +38,23 @@ You should think of yourself as the host of the Kappy Hour. You will introduce y
 ### Event Planners
 
 **Kappy Hour planner**
-Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to all the channel managers. Estimate that each event takes 2 hours to plan total. \
+Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also want to start charging tickets for Kappy Hours, so you’ll set that up. You’ll create marketing graphics (from templates), and send it to the marketing committee. Estimate that each event takes 2 hours to plan total. \
 [Detailed Instructions](https://docs.google.com/document/d/1vRpFVR73kaf9Qb1LfNp7rjzdMA6xfsNcQAP4RV48XOc/edit?usp=sharing){:target="_blank"}
 
 **Small group social event planner**
-Plan dinners, party nights, norebang, etc. You'll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You'll setup the ticketing, create marketing graphics, and send it to all the channel managers. \
+Plan dinners, party nights, norebang, etc. You'll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You'll setup the ticketing, create marketing graphics, and send it to the marketing committee. \
 [Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
 **Active lifestyle event planner**
 Plan a hike, tennis group, basketball group, yoga event, etc. \
 [Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
-## Marketing Committee (under Eddy)
+## Marketing Committee (led by Eddy & Kevin)
 {: .border-bottom .blue}
+
+Anyone is welcome to join one of our weekly meetings if they are interested in potentially joining. Email eddy@kaps.org to give a heads up that you'd like to join. \
+Weekly on Sunday 8:30pm. \
+Google Meet: [meet.google.com/obw-qzxc-afx](meet.google.com/obw-qzxc-afx){:target="_blank"}
 
 **Email newsletter manager**
 Send out the monthly newsletter, and reminder emails for events. The email will be sent from the newsletter@kaps.org Mailchimp account, but you will personally sign each email. A short blurb about you and your profile photo will accompany each email. 
@@ -75,7 +79,7 @@ This role is similar to the Instagram manager role. There are differences, howev
 **LinkedIn account manager**
 You will be given access to the @kapsorg LinkedIn account. Your goal is the increase connections and increase membership in the KAPS group. In this role, you are the face and voice of KAPS. You will directly message KAPS members and get to know them personally. Your face will be on the account profile photo. You should create lists of members in similar professions so that we can create professional development events for those groups. 
 
-## Professional Development Committee (under Ken)
+## Professional Development Committee (led by Ken)
 {: .border-bottom .blue}
 
 **Professional development event planner**
@@ -100,7 +104,7 @@ Plan Korean language learning opportunities, or cultural talks, or arts events, 
 Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like "Where do we begin" by Esther Perel. \
 [Detailed Instructions](https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing){:target="_blank"}
 
-## Tech Committee (under Eddy)
+## Tech Committee (led by Eddy)
 {: .border-bottom .blue}
 These roles vary in commitment, and is flexible.
 
