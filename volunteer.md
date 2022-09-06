@@ -52,7 +52,7 @@ Plan a hike, tennis group, basketball group, yoga event, etc. \
 ## Marketing Committee (led by Eddy & Kevin)
 {: .border-bottom .blue}
 
-Anyone is welcome to join one of our weekly meetings if they are interested in potentially joining. Email eddy@kaps.org to give a heads up that you'd like to join. \
+Anyone is welcome to attend one of our weekly meetings if they are interested in potentially joining the committee. Email eddy@kaps.org to give a heads up that you'd like to attend. \
 Weekly on Sunday 8:30pm. \
 Google Meet: [meet.google.com/obw-qzxc-afx](meet.google.com/obw-qzxc-afx){:target="_blank"}
 
