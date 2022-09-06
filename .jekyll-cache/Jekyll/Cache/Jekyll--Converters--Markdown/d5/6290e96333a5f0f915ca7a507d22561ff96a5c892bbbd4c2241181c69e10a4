@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS Volunteer Roles | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Volunteer</a>
-    </nav>
-    <h2 id="volunteer-for-kaps">Volunteer for KAPS!</h2>
+I"&<h2 id="volunteer-for-kaps">Volunteer for KAPS!</h2>
 <p>We are excited about the next year as everyone is starting to come out of isolation. Join us at this exciting moment!</p>
 
 <p>There are over 20 roles. <a href="https://kaps.org/volunteer-interest" target="_blank">Express interest here</a>.</p>
@@ -60,8 +40,20 @@ Schedule the Kappy Hour, find a venue, and negotiate happy hour deals. We also w
 Plan dinners, party nights, norebang, etc. You’ll be the center of the event! The ideas are endless. To make it easy, we expect these events to be small groups (maybe less than 10 people). You’ll setup the ticketing, create marketing graphics, and send it to all the channel managers. <br />
 <a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
+<p><strong>Mental health small group leader</strong>
+Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like “Where do we begin” by Esther Perel. <br />
+<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
+
 <p><strong>Active lifestyle event planner</strong>
 Plan a hike, tennis group, basketball group, yoga event, etc. <br />
+<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
+
+<p><strong>Community service event planner</strong>
+Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. <br />
+<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
+
+<p><strong>Cultural event planner</strong>
+Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is no minimum commitment. You can plan just one event. <br />
 <a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
 <h2 class="border-bottom blue" id="marketing-committee-under-eddy">Marketing Committee (under Eddy)</h2>
@@ -95,23 +87,7 @@ You will be given access to the @kapsorg LinkedIn account. Your goal is the incr
 Plan fireside chats, talks, learning opportunities, and small group discussion related to professional development. Work with the LinkedIn account manager to generate event ideas and reach out to professionals who can help. <br />
 <a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
 
-<h2 class="border-bottom blue" id="community-service--cultural-committee">Community Service &amp; Cultural Committee</h2>
-
-<p><strong>Community service event planner</strong>
-Plan a group volunteer event such as cleaning up the beach, or helping seniors, or planing a garden, or working a soup kitchen, etc. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
-
-<p><strong>Cultural event planner</strong>
-Plan Korean language learning opportunities, or cultural talks, or arts events, or group trips. There is no minimum commitment. You can plan just one event. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
-
-<h2 class="border-bottom blue" id="mental-health-committee">Mental Health Committee</h2>
-
-<p><strong>Mental health small group leader</strong>
-Get a small group together to discuss mental health. This is NOT a therapy session. It can be virtual or in-person. You can do meditation exercises. You can play discussion games like “Where do we begin” by Esther Perel. <br />
-<a href="https://docs.google.com/document/d/1o1tLse6SorP9J2gGRx_tYxU7zv5XG6fElE-bPL8cf8U/edit?usp=sharing" target="_blank">Detailed Instructions</a></p>
-
-<h2 class="border-bottom blue" id="tech-committee-under-eddy">Tech Committee (under Eddy)</h2>
+<h2 class="border-bottom blue" id="tech-committee">Tech Committee</h2>
 <p>These roles vary in commitment, and is flexible.</p>
 
 <p><strong>Website designer</strong> 
@@ -123,13 +99,6 @@ The kaps.org website is built on Github pages using Jekyll. It is a simple, blog
 <p><strong>Software engineer</strong>
 Eddy Jin, one of our officers and a Google engineer, will be leading a various interesting software projects. This is a good opportunity for a new or aspiring developer to be mentored by a seasoned engineer. One project is to streamline the marketing workflow from event creation to multi-channel publishing.</p>
 
-<h2 class="border-bottom blue" id="kaps-advisory-board-led-by-lisa">KAPS Advisory Board (led by Lisa)</h2>
+<h2 class="border-bottom blue" id="kaps-advisory-board">KAPS Advisory Board</h2>
 <p>The advisory board helps to guide the organization’s mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents.</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
