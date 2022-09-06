@@ -1,9 +1,9 @@
 ---
 layout: basic
-title: KAPS Volunteer Roles
+title: KAPS Committees
 ---
 
-## Volunteer for KAPS!
+## Join a KAPS committee or become an Officer!
 We are excited about the next year as everyone is starting to come out of isolation. Join us at this exciting moment!
 
 There are over 20 roles. [Express interest here](https://kaps.org/volunteer-interest){:target="_blank"}.
