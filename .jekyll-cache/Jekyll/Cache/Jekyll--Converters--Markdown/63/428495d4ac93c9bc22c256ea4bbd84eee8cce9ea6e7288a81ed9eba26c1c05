@@ -1,25 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS Committees | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Committees</a> |
-      <a href="/sponsorship">Sponsorship</a>
-    </nav>
-    <h2 id="join-a-kaps-committee-or-become-an-officer">Join a KAPS committee or become an Officer!</h2>
+I"�,<h2 id="join-a-kaps-committee-or-become-an-officer">Join a KAPS committee or become an Officer!</h2>
 <p>We are excited about the next year as everyone is starting to come out of isolation. Join us at this exciting moment!</p>
 
 <p>There are over 20 roles. <a href="https://kaps.org/volunteer-interest" target="_blank">Express interest here</a>.</p>
@@ -135,11 +114,4 @@ Eddy Jin, one of our officers and a Google engineer, will be leading a various i
 
 <h2 class="border-bottom blue" id="kaps-advisory-board-led-by-lisa">KAPS Advisory Board (led by Lisa)</h2>
 <p>The advisory board helps to guide the organization’s mission, strategy, and impact. The minimum commitment is 3 years. There are board meetings twice a year. Advisors are encouraged to use their networks and resources to help elevate KAPS. Current Advisory Board members are previous KAPS presidents.</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
