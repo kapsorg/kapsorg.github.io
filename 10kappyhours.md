@@ -13,4 +13,4 @@ Yup, you heard it right. If you attend 10 Kappy Hours (or eligible events), you 
 3. Before your 10th Kappy Hour, please tell us your t-shirt size so we can have one custom made. 
 
 ### What is a Kappy Hour?
-We hold a happy hour (KAPpy Hour) on the 3rd week of almost every month. It is our flagship event series, and is a great place to meet new friends or catch up with old ones. Bring your friends, including any non-Korean friends. It is usually held at a bar at around 5pm on a Friday. We try to move it around including the city, South Bay, and East Bay. 
+We host a happy hour (KAPpy Hour) on the 3rd week of almost every month. It is our flagship event series, and is a great place to meet new friends or catch up with old ones. Bring your friends, including any non-Korean friends. It is usually held at a bar at around 5pm on a Friday. We try to move it around including the city, South Bay, and East Bay. 

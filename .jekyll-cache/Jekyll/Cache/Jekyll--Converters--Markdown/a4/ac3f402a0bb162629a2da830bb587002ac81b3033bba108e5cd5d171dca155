@@ -1,26 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>10 Kappy Hours = Free T-Shirt | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Committees</a> |
-      <a href="/sponsorship">Sponsorship</a> |
-      <a href="/10kappyhours">10 Kappy Hours = Free T-Shirt</a>
-    </nav>
-    <h2 id="10-kappy-hours--free-t-shirt">10 Kappy Hours = Free T-Shirt</h2>
+I"y<h2 id="10-kappy-hours--free-t-shirt">10 Kappy Hours = Free T-Shirt</h2>
 
 <p>Yup, you heard it right. If you attend 10 Kappy Hours (or eligible events), you get the very cool “Korean Bae” T-Shirt. It was designed by us, and we will be selling it for $40.</p>
 
@@ -33,11 +11,4 @@
 
 <h3 id="what-is-a-kappy-hour">What is a Kappy Hour?</h3>
 <p>We host a happy hour (KAPpy Hour) on the 3rd week of almost every month. It is our flagship event series, and is a great place to meet new friends or catch up with old ones. Bring your friends, including any non-Korean friends. It is usually held at a bar at around 5pm on a Friday. We try to move it around including the city, South Bay, and East Bay.</p>
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
