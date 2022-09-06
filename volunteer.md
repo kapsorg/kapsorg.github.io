@@ -20,9 +20,9 @@ Officer positions:
 - Professional Development Chair - Ken Lee - Leads professional development endeavors.
 - Active Membership Chair - Kevin Kang - Engages with the top 40 active members. Creates incentives to participate.
 - Marketing Chair (Open Position) - Handles all online marketing, including email list and social media.
-- Community Service & Cultural Events Chair (Open Position) - Plans community service and cultural events.
+- Community Service & Cultural Chair (Open Position) - Plans community service and cultural events. Also responsible for connecting with the Korean Consulate.
 - Mental Health Chair (Open Position) - Plans small discussion groups and one larger mental health talk.
-- Swag Chair (Open Position) - This is an arts and craft position to create t-shirts, tote bags, and other items we can sell.
+- Swag Chair (Open Position) - This is an arts and craft position to design and create t-shirts, tote bags, and other items we can sell.
 - Sponsorship & Fundraising Chair (Open Position) - Creates relationships with professionals and brands that want to advertise to KAPS membership. Also creates fundraising programs, such as selling swag. 
 
 ## Social Committee (led by Petra & Kawon)
