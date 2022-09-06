@@ -5,7 +5,7 @@ title: KAPS
 
 ### KAPS
 # 👋 hello.
-# Make friends. Advance your career. Belong to community.
+# {{ site.alt-slogan }}
 
 ### KAPS (Korean American Professional Society) is a social and professional networking group for Koreans and Korean Americans in the San Francisco Bay Area.
 

@@ -1,26 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="shortcut icon" type="image/png" href="/favicon-32x32.png" />
-  <title>KAPS | Korean American Professional Society in the San Francisco Bay Area (KAPS)</title>
-  <script src="/events.js" defer></script>
-</head>
-
-<body>
-  <div class="container-lg px-3 my-5">
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/events">Events</a> | 
-      <a href="/about">About</a> | 
-      <a href="/volunteer">Committees</a> |
-      <a href="/sponsorship">Sponsorship</a> |
-      <a href="/10kappyhours">10 Kappy Hours = Free T-Shirt</a>
-    </nav>
-    <h3 id="kaps">KAPS</h3>
+I"�<h3 id="kaps">KAPS</h3>
 <h1 id="-hello">👋 hello.</h1>
 <h1 id="come-out-meet-real-people-build-your-community">Come out. Meet real people. Build your community.</h1>
 
@@ -53,11 +31,4 @@ Most needed are: photographer, social media managers, and event planners.</p>
     })();
 </script>
 
-
-    <footer>
-      <p>KAPS loves you 😍, and so does your halmoni</p>
-    </footer>
-  </div>
-</body>
-
-</html>
+:ET
