@@ -16,10 +16,13 @@ appendAllEventLists()
 function appendAllEventLists() {
     const container = document.getElementById('events')
 
-    var events = [{"title":"2022 Annual Bonfire at Ocean Beach ($40)","expire":"2022-9-24","date":"SATURDAY, SEPTEMBER 24, 2022 AT 4 PM – 9:30 PM","location":"Ocean Beach","attendance":50,"link":"https://fb.me/e/1GLYTZteS"},{"title":"Korean 10k Fun Run","expire":"2022-10-2","date":"SUNDAY, OCTOBER 2, 2022 AT 9 AM","location":"Hayes Valley","attendance":12,"link":"https://fb.me/e/pEKmcEc7i"},{"title":"Friendsgiving ($25)","expire":"2022-11-12","date":"SATURDAY, NOVEMBER 12, 2022 AT 5 PM","location":"South Bay","attendance":20,"link":"https://fb.me/e/2abEPnXku"},{"title":"2022 KAPS Annual Holiday Party ($50)","expire":"2022-12-10","date":"SATURDAY, DECEMBER 10, 2022 AT 5 PM","location":"San Francisco","attendance":100,"link":"https://fb.me/e/1GLYTZteS"},{"title":"Tahoe Trip for Volunteers and Officers (so sign up to be one!)","expire":"2023-1-8","date":"JAN 6, 2023 AT 5 PM – JAN 8, 2023 AT 10 PM","location":"Lake Tahoe","attendance":25,"link":"https://fb.me/e/23HWDdUJ4"}]
+    var events = [{"title":"Halloween Kappy Hour","expire":"2022-10-28","date":"FRIDAY, OCTOBER 28, 2022 AT 5 PM","location":"San Francisco","link":"https://fb.me/e/2va8Zu8au"}]
+    container.appendChild(eventsList(events, "KAPPY HOURS"))
+
+    events = null
     container.appendChild(eventsList(events, "Flagship events"))
 
-    events = [{"title":"KAPS Family Dinner (12 only, $20)","expire":"2022-9-9","date":"FRIDAY, SEPTEMBER 9, 2022 AT 7 PM","location":"Hayes Valley","attendance":12,"link":"https://fb.me/e/29SS6ExuU"},{"title":"New Google Campus Tour in South Bay","expire":"2022-9-30","date":"Friday, Sept 30 @ 11am (during working day)","location":"Mountain View","attendance":12,"link":"https://fb.me/e/2HgVrLyb0"}]
+    events = null
     container.appendChild(eventsList(events, "Small group events"))
 
     events = null
@@ -37,7 +40,7 @@ function appendAllEventLists() {
     events = null
     container.appendChild(eventsList(events, "Cultural events"))
 
-    events = [{"title":"KAPS Friends go together to Chuseok Festival in Presidio","expire":"2022-9-10","date":"SATURDAY, SEPTEMBER 10, 2022 AT 11 AM","location":"Presidio Main Parade Lawn","link":"https://fb.me/e/2fQDgZfwN"},{"title":"KAPS Friends Bar Hopping after Chuseok Festival","expire":"2022-9-10","date":"SATURDAY, SEPTEMBER 10, 2022 AT 9 PM","location":"Start at \"Brass Tacks\" in Hayes Valley","link":"https://fb.me/e/1IzF6LFj3"},{"title":"KAPS in Koreatown LA - Oct 15","expire":"2022-10-15","date":"SATURDAY, OCTOBER 15, 2022 AT 6 PM","location":"Koreatown, LA","link":"https://fb.me/e/2lSfNW9qP"}]
+    events = null
     container.appendChild(eventsList(events, "Other events"))
 }
 
