@@ -22,7 +22,7 @@ function appendAllEventLists() {
     var events = {{ site.data.events.kappy-hours | jsonify }}
     container.appendChild(eventsList(events, "KAPPY HOURS"))
 
-    events = {{ site.data.events.small-group-events | jsonify }}
+    events = {{ site.data.events.flagship-events | jsonify }}
     container.appendChild(eventsList(events, "Flagship events"))
 
     events = {{ site.data.events.small-group-events | jsonify }}

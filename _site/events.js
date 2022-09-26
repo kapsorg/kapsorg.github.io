@@ -19,7 +19,7 @@ function appendAllEventLists() {
     var events = [{"title":"Halloween Kappy Hour","expire":"2022-10-28","date":"FRIDAY, OCTOBER 28, 2022 AT 5 PM","location":"San Francisco","link":"https://fb.me/e/2va8Zu8au"}]
     container.appendChild(eventsList(events, "KAPPY HOURS"))
 
-    events = null
+    events = [{"title":"Friendsgiving (potluck)","expire":"2022-11-12","date":"SATURDAY, NOVEMBER 12, 2022 AT 5 PM","location":"South Bay","attendance":20,"link":"https://fb.me/e/2abEPnXku"},{"title":"2022 KAPS Annual Holiday Party ($50)","expire":"2022-12-10","date":"SATURDAY, DECEMBER 10, 2022 AT 5 PM","location":"San Francisco","attendance":100,"link":"https://fb.me/e/1GLYTZteS"}]
     container.appendChild(eventsList(events, "Flagship events"))
 
     events = null
